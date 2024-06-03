@@ -2,6 +2,7 @@
 import math
 import heapq
 import time
+
 class Airport:
     def __init__(self, ID, airport_type):
         self.id = ID
