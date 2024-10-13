@@ -1,4 +1,3 @@
-This is a Airport System Management Project that is one of my assigment in Data Structure & Algorightm Course at my university.
 # Airport Management System with customized Dijkstra algorithm.
 
 ## Problem
@@ -14,18 +13,24 @@ In addition to the airports, a network of flights will connect the various desti
   
 Note: Define (L > M > S) so that Aircraft that have type is greater cannot land to the airport that have type is smaller.
  
-## Introduction
-This is project Assigment in the course Data Structures and Algorithm
+## Project Overview
+This project is part of the Data Structures and Algorithms course at [FPT University HCMC]. The goal of this assignment is to implement a data struture for airport system management and apply Dijkstra algorithm that has been customizing to 
+solve the problem conditions.  
+The project has the following features:
 
-* **Object Detection on Image**
-* **Object Detection on Video**
-* **Object Detection Real-time**
+1. **Add an airport**
+2. **Add a route**
+3. **Delete an airport**
+4. **Delete a route**
+5. **Update an airport**
+6. **List airports and their networks**
+7. **Calculate cost**
+8. **Find the shortest route**
+9. **Boomb!!!!!!!!!!!!!!!!**
   
 
 
-
-
-## Settings
+## How to Run
 To use the project, follow these steps:
 
 1. Clone repo:
