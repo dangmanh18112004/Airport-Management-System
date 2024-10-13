@@ -6,7 +6,8 @@ In a surreal scenario, you find yourself as the esteemed leader of the illustrio
 However, amidst the dreamscape, a monumental task presents itself: constructing an airport system for the radiant Light planet:
 - Airport Identification (ID)
 - Cost Between Two Airports (weight)
-- Airport Types (L, M, S)  
+- Airport Types (L, M, S)
+
 In addition to the airports, a network of flights will connect the various destinations across the planet. These flights, essential conduits of travel, boast the following characteristics:
 - Departure and Destination
 - Aircraft Type (L, M, S).
