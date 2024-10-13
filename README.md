@@ -11,6 +11,7 @@ However, amidst the dreamscape, a monumental task presents itself: constructing 
 In addition to the airports, a network of flights will connect the various destinations across the planet. These flights, essential conduits of travel, boast the following characteristics:
 - Departure and Destination
 - Aircraft Type (L, M, S).
+  
 Note: Define (L > M > S) so that Aircraft that have type is greater cannot land to the airport that have type is smaller.
  
 ## Introduction
